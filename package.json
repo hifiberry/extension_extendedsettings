@@ -1,0 +1,21 @@
+{
+  "name": "@beocreate/extendedsettings",
+  "version": "0.1",
+  "description": "Extended settings",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hifiberry/extension_extendedsettings"
+  },
+  "keywords": [
+  ],
+  "author": "HiFiBerry",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hifiberry/extension_extendedsettings/issues"
+  },
+  "homepage": "https://github.com/hifiberry/extension_extendedsettings"
+}
